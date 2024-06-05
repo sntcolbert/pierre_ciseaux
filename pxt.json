@@ -5,7 +5,8 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "test-tuto": "github:sntcolbert/test-tuto#fe91949c4437a43ce69974567ae82375f2eeb59f"
+        "test-tuto": "github:sntcolbert/test-tuto#fe91949c4437a43ce69974567ae82375f2eeb59f",
+        "test tuto": "github:sntcolbert/test-tuto#b2e3f0094e4f9d60c23cf7e2a974828ae313b732"
     },
     "files": [
         "main.blocks",
